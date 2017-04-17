@@ -1,0 +1,11 @@
+{
+    "current": "Blue",
+    "presets": {
+        "Blue": {
+           
+            //Collect usage events for product recommendations 
+            "collect_user_events_enabled": true,
+            "azure_recommendation_model_id": "9c915305-ce4c-4b9c-8c9f-5ffaf8df05ac"
+        }
+    }
+}

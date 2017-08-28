@@ -1,4 +1,4 @@
-﻿<div ng-controller="cartController">
+<div ng-controller="cartController">
     <div class="ajax-informer fade" ng-if="!cart">
         <div class="loader"></div>
         <span>{{ 'cart.general.loading_cart_message' | t }}</span>
@@ -114,7 +114,7 @@
                 </div>
             </div>
         </form>
-    </div> 
+    </div>    
     
     {% assign modelId = settings.azure_recommendation_model_id %}
     {% assign product_ids = '' %}

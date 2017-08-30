@@ -1,18 +1,20 @@
 {
     "version": "1.0.1",
-    "name": "vc-default-theme",
+    "name": "vc-demo-theme",
     "author": "VirtoCommerce",
-    "description": "Default theme for Storefront",
+    "description": "Default theme for VirtoCommerce Demo",
     "private": true,
     "tags": [
         "virtocommerce",
         "theme",
-        "electronics"
+        "electronics",
+        "demo"
     ],
     "keywords": [
         "virtocommerce",
         "theme",
-        "electronics"
+        "electronics",
+        "demo"
     ],
     "dependencies": {},
     "devDependencies": {
@@ -58,13 +60,13 @@
     "engines": {
         "node": ">4.0.0"
     },
-    "homepage": "https://github.com/VirtoCommerce/vc-default-theme/",
+    "homepage": "https://github.com/VirtoCommerce/vc-demo-theme/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/VirtoCommerce/vc-default-theme.git"
+        "url": "https://github.com/VirtoCommerce/vc-demo-theme.git"
     },
     "bugs": {
-        "url": "https://github.com/VirtoCommerce/vc-default-theme/issues"
+        "url": "https://github.com/VirtoCommerce/vc-demo-theme/issues"
     },
     "scripts": {
     }
